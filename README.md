@@ -1,1 +1,1 @@
-# helloworld-js
+# Hello world! in Javascript
